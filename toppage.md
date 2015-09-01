@@ -4,4 +4,4 @@ title: About
 permalink: /
 ---
 
-gitlaw日本版
+gitlaw
