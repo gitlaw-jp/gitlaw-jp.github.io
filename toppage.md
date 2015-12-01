@@ -32,3 +32,4 @@ GitHubで法律を管理するGitLawと呼ばれる取り組みの実験をし�
 * [水野祐＋平林健吾 Edit × LAW 第13回「GitLaw」- DOTPLACE](http://dotplace.jp/archives/18824)
 * [gitlaw.us](http://gitlaw.us)
 * [bundestag/gesetze](https://github.com/bundestag/gesetze)
+* [bitlaw-jp](http://bitlaw-jp.github.io
